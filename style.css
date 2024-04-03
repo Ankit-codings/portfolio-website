@@ -82,6 +82,11 @@ nav li:hover {
   justify-content: space-around;
   align-items: center;
 }
+#hero .container img{
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
 .hero_content {
   display: grid;
   place-items: center;
